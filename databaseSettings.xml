@@ -1,6 +1,11 @@
 <application>
   <component name="DatabaseSettings" version="2">
-    <option name="execute-inside-option" value="3" />
+    <option name="execute-inside-option" value="2" />
+    <exec-options>
+      <exec-option exec-inside="2" />
+      <exec-option />
+      <exec-option />
+    </exec-options>
     <csv-formats>
       <csv-format name="Tab-separated (TSV)" id="ea62f2ce-41f0-4fc6-9065-dd9590178a71">
         <data>
