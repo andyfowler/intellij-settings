@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".env" type="Ini" />
+      <mapping pattern=".env.test" type="Ini" />
       <mapping pattern="gmail_message" type="PHP" />
       <mapping pattern="gmail_sync" type="PHP" />
     </extensionMap>
