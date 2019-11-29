@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern=".env" type="Ini" />
       <mapping pattern=".env.test" type="Ini" />
-      <mapping pattern="gmail_message" type="PHP" />
       <mapping pattern="gmail_sync" type="PHP" />
+      <mapping pattern="gmail_message" type="PHP" />
       <mapping pattern=".graphqlconfig" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
