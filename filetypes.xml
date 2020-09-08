@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="gmail_sync" type="PHP" />
       <mapping pattern="gmail_message" type="PHP" />
       <mapping pattern=".graphqlconfig" type="PLAIN_TEXT" />
