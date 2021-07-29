@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="graphqlconfig" type="JSON" />
-      <mapping pattern="gmail_sync" type="PHP" />
       <mapping pattern="gmail_message" type="PHP" />
+      <mapping pattern="gmail_sync" type="PHP" />
       <mapping pattern=".graphqlconfig" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
