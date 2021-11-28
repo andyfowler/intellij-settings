@@ -5,6 +5,7 @@
       <mapping pattern="gmail_message" type="PHP" />
       <mapping pattern="gmail_sync" type="PHP" />
       <mapping pattern=".graphqlconfig" type="PLAIN_TEXT" />
+      <mapping ext="phpo" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
